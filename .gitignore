@@ -1,0 +1,9 @@
+results/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+snapshots/0*/
+
+# Supplied website snapshots stay out of this repository.
+snapshots_zip/
